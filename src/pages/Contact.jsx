@@ -15,7 +15,7 @@ const Contact = () =>{
             <i className="far fa-home" /> Home
           </a>
         </li>
-        <li className="active">Contact Us</li>
+        <li className="active">Contact Us update</li>
       </ul>
     </div>
   </div>
